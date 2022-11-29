@@ -1,0 +1,22 @@
+﻿  Character.cpp
+E:\VS\Yukkuri Quest\Yukkuri Quest\Character.cpp(67,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\Yukkuri Quest\Yukkuri Quest\Character.cpp(67,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ControlHelper.cpp
+  GUIHelper.cpp
+E:\VS\Yukkuri Quest\Yukkuri Quest\GUIHelper.cpp(6,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\VS\Yukkuri Quest\Yukkuri Quest\GUIHelper.cpp(6,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+  Gameplay.cpp
+E:\VS\Yukkuri Quest\Yukkuri Quest\Gameplay.cpp(127,28): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\VS\Yukkuri Quest\Yukkuri Quest\Gameplay.cpp(127,28): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\VS\Yukkuri Quest\Yukkuri Quest\Gameplay.cpp(127,36): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+E:\VS\Yukkuri Quest\Yukkuri Quest\Gameplay.cpp(127,36): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Option.cpp
+  Tile.cpp
+  Title.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 245 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Yukkuri Quest.vcxproj -> E:\VS\Yukkuri Quest\Release\Yukkuri Quest.exe
